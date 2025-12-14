@@ -1,0 +1,7 @@
+{
+  "name": "ZenGen AI Meditation",
+  "description": "A personalized guided meditation app generating custom sessions with unique visuals and AI voiceovers using Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
